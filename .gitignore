@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Problems/Motor static factory/out/
+/Problems/Motor static factory/out/production/classes/
